@@ -1,3 +1,4 @@
+// YouTube: https://www.youtube.com/watch?v=mJrXrnDbzao
 let clicDetectado  = false;
 let estado;
 let textos = [];
